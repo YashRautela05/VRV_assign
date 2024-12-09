@@ -113,6 +113,25 @@ rbac-ui/
 ```
 
 ---
+## **Screenshots**
 
+### **Pages:**
+1. **User Management Page**
+![image](https://github.com/user-attachments/assets/ef4d5aed-999e-4250-aa4c-c74d32af3d43)
+
+2. **Role Management Page**
+![image](https://github.com/user-attachments/assets/a6cc3122-ee10-47e7-905b-c5d7b3f82629)
+
+
+Include screenshots of the UI pages here, such as:
+- User list view with options to add/edit/delete users.
+![image](https://github.com/user-attachments/assets/9ad080f1-fefb-43c2-aa70-2a7bdcbf94b0)
+
+- Role list view with options to add/edit/delete roles.
+![image](https://github.com/user-attachments/assets/67f477ab-f618-4332-bdad-98d472c379fb)
+
+
+
+---
 
 
